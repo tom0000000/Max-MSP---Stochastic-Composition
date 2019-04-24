@@ -1,6 +1,6 @@
 # Max-MSP---Stochastic-Composition
 
-Prob_drum_samp
+<b>Prob_drum_samp</b>
 
 
 A series of semi-musically related intervals are stored in the coll intervals and sent to a metro. These intervals are recalled by their index according to the result of a probability table. Either the intervals can be selected on-the-fly or the output of the table can be recorded in to another coll, seq, for 16 steps, allowing the patch to turn on/off repetition of phrases. A drum buffer is played via a 2d.wave~ with 16 rows. Every time the metro bangs, a row of the 2d.wave is played once. Which row is played is decided by a probability table calculation. The last 32 steps of this calculation can be recorded in the green coll.
