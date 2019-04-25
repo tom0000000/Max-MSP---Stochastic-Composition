@@ -1,5 +1,7 @@
 # Max-MSP---Stochastic-Composition
 
+![alt text](https://github.com/tom0000000/Max-MSP---Stochastic-Composition/blob/master/demoStochastic.PNG "screenshot of patch")
+
 <b>Prob_drum_samp</b>
 
 
